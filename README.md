@@ -1,6 +1,12 @@
 # Flexoki for Visual Studio Code
 
-Also available as an option in [One Hunter theme](https://github.com/Railly/one-hunter-vscode). 
+Created from the main repo [kepanos Flexoki](https://github.com/kepano/flexoki).
+
+To develop (and use) locally, clone this repo into you VSCode extensions folder.
+
+```bash
+git clone https://github.com/Bjorn-Eric-Abr/VSCode-Flexoki ~/.vscode/extensions
+```
 
 ## Flexoki Dark
 

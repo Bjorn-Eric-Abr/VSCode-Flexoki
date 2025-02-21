@@ -6,7 +6,10 @@
   "engines": {
     "vscode": "^1.97.0"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bjorn-Eric-Abr/VSCode-Flexoki"
+  },
   "categories": [
     "Themes"
   ],
