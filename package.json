@@ -1,0 +1,27 @@
+{
+  "name": "flexoki",
+  "displayName": "Flexoki",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "repository": "",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flexoki Dark",
+        "uiTheme": "vs",
+        "path": "./themes/Flexoki-Dark-color-theme.json"
+      },
+      {
+        "label": "Flexoki Light",
+        "uiTheme": "vs",
+        "path": "./themes/Flexoki-Light-color-theme.json"
+      }
+    ]
+  }
+}
