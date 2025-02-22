@@ -17,13 +17,18 @@
     "themes": [
       {
         "label": "Flexoki Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Flexoki-Dark-color-theme.json"
       },
       {
         "label": "Flexoki Light",
         "uiTheme": "vs",
         "path": "./themes/Flexoki-Light-color-theme.json"
+      },
+      {
+        "label": "Flexoki Light Borderless",
+        "uiTheme": "vs",
+        "path": "./themes/Flexoki-Light-Borderless-color-theme.json"
       }
     ]
   }
